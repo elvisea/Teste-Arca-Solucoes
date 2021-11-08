@@ -4,13 +4,33 @@ This is a really simple project that show the usage of React Native with TypeScr
 
 ## How to use it?
 
-Execute:
+Run the following code to clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/elvisea/Teste-Arca-Solucoes.git
 ```
 
+Enter directory:
+
 ```bash
-cd 
+cd Teste-Arca-Solucoes
+```
+
+Install project dependencies with yarn or npm:
+
+```bash
+yarn
+```
+
+If you are in the linux environment run the following code: 
+
+```bash
+yarn start
+```
+
+After:
+
+```bash
+yarn android
 ```
 
