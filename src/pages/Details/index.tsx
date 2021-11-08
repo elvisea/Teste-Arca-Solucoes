@@ -38,7 +38,8 @@ function Details() {
           <Info>Eye Color: {params.eye_color}</Info>
           <Info>Birth Year: {params.birth_year}</Info>
           <Info>Gender: {params.gender}</Info>
-          <Info>homeworld: {params.homeworld}</Info>
+          <Info>Homeworld: {params.homeworld}</Info>
+          <Info>Url: {params.url}</Info>
 
           <SubTitle>Filmes</SubTitle>
           {params.films.length === 0 ? (
